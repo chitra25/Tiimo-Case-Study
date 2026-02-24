@@ -35,7 +35,7 @@ This report operationalizes the above recommendation by identifying decision-mak
 
 ## Stakeholder Identification Matrix
 
-![Power-Interest Grid](Screenshot-2026-02-19-at-1.20.34-PM.jpg)
+![Power-Interest Grid](../images/Power-Interest-Grid.png)
 
 
 ## Quadrant Distribution
