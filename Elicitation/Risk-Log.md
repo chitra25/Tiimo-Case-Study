@@ -1,0 +1,9 @@
+# Risk Log: Tiimo iPhone Churn Reduction Initiative 
+
+| Risk | Impact | Likelihood | Mitigation (Live Engagement) |
+|------|--------|------------|------------------------------|
+| Internal analytics contradict VOC (e.g., Routines not top churn driver or over/under weighted vs other issues) | High | Medium | Phase 1: Compare VOC issue tags vs. internal churn drivers and feature usage data with Data/Analytics team; adjust priorities if internal signals diverge. |
+| Technical or UX constraints limit Routines MVP (e.g., architecture, performance, accessibility) | High | Medium | Phase 1: Joint feasibility spike with Dev and Design Leads to define a minimal, neuroinclusive Routines MVP before committing roadmap scope. |
+| Budget and capacity insufficient to deliver meaningful Routines MVP | Medium | Low-Medium | Phase 1: Present quantified ARR uplift and retention scenarios to Execs, framed against Tiimo’s paying base and subscription benchmarks, to justify investment and phase features if needed. |
+| Stakeholder misalignment on priorities (Routines vs AI vs Android vs calendar/bug fixes) | Medium | Medium | Phase 1: Run a cross‑functional RICE/impact workshop using VOC, internal data, explicitly including Android and accessibility considerations, to reach ranked, shared priorities. |
+| Platform focus misjudged (e.g., Android or B2B segments become higher priority than iOS routines) | Medium | Medium | Phase 1: Validate platform and segment revenue mix with internal data. If Android or B2B revenue exposure is high, extend analysis to those cohorts and adjust MVP roadmap accordingly. |
