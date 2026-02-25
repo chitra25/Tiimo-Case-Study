@@ -21,8 +21,8 @@ This plan operationalizes the Phase 1 elicitation strategy for the Tiimo Routine
 
 | Activity ID | Stakeholder(s) | Power/Interest | Technique | Objective | Duration | Deliverable | Prep Required | Owner |
 |-------------|----------------|----------------|-----------|-----------|----------|-------------|---------------|-------|
-| **EA-01** | Product Manager | 9/10 | Interview | Validate VOC priorities against internal roadmap | 90 min | Interview notes, roadmap alignment matrix | Share VOC dashboard 48hr prior | BA |
-| **EA-02** | Product Manager | 9/10 | Workshop | RICE/MoSCoW prioritization using VOC data | 2 hr | Prioritized backlog (draft) | Prepare RICE template, VOC pivot tables | BA, PM |
+| **EA-01** | Product Manager | 9/10 | Interview | Validate VOC priorities against internal roadmap | 60 min | Interview notes, roadmap alignment matrix | Share VOC dashboard 48hr prior | BA |
+| **EA-02** | Product Manager | 9/10 | Workshop | RICE/MoSCoW prioritization using VOC data | 60 min | Prioritized backlog (draft) | Prepare RICE template, VOC pivot tables | BA, PM |
 | **EA-03** | Development Lead | 8/10 | Interview | Technical feasibility & constraints discovery | 90 min | Technical constraints log, effort estimates | Provide legacy Routines architecture docs | BA |
 | **EA-04** | Design Lead | 8/10 | Interview | UX rationale for Routines removal + friction points | 90 min | UX decision log, VOC-to-design mapping | Share VOC UI complaints summary | BA |
 | **EA-05** | Competitors (desk research) | 3/3 | Competitive Analysis | Routines feature benchmarking | 4 hr | Competitive feature matrix (Structured, Llama Life, TickTick) | Compile Reddit migration threads | BA |
@@ -40,9 +40,9 @@ This plan operationalizes the Phase 1 elicitation strategy for the Tiimo Routine
 
 | Activity ID | Stakeholder(s) | Power/Interest | Technique | Objective | Duration | Deliverable | Prep Required | Owner |
 |-------------|----------------|----------------|-----------|-----------|----------|-------------|---------------|-------|
-| **EA-06** | Development Lead | 8/10 | Workshop | Routines MVP scope definition, prototype review | 3 hr | MVP feature list (subtasks, timers, saved routines), sprint estimate | Build low-fi prototype (Figma) | BA, Dev Lead |
-| **EA-07** | Design Lead, Dev Lead | 8/10, 8/10 | Interview | Walkthrough: current app flows and legacy Routines UI | 2 hr | As-is process flows, gap analysis | Install Tiimo dev environment | BA |
-| **EA-08** | Design Lead | 8/10 | Workshop | Co-design Routines MVP (information architecture, visual hierarchy) | 2.5 hr | Wireframes for neuroinclusive MVP | Prepare VOC personas (Alex, Jordan, Sam) | BA, Design |
+| **EA-06** | Development Lead | 8/10 | Workshop | Routines MVP scope definition, prototype review | 2 hr | MVP feature list (subtasks, timers, saved routines), sprint estimate | Build low-fi prototype (Figma) | BA, Dev Lead |
+| **EA-07** | Design Lead, Dev Lead | 8/10, 8/10 | Interview | Walkthrough: current app flows and legacy Routines UI | 30 min | As-is process flows, gap analysis | Install Tiimo dev environment | BA |
+| **EA-08** | Design Lead | 8/10 | Workshop | Co-design Routines MVP (information architecture, visual hierarchy) | 2 hr | Wireframes for neuroinclusive MVP | Prepare VOC personas (Alex, Jordan, Sam) | BA, Design |
 | **EA-09** | Product Manager | 9/10 | Document Analysis | Review 2026 roadmap, feature backlogs, internal user research | 2 hr | Roadmap fit analysis, conflicting priorities log | Request roadmap access via PM | BA |
 
 **Week 2 Milestones:**
@@ -56,10 +56,10 @@ This plan operationalizes the Phase 1 elicitation strategy for the Tiimo Routine
 
 | Activity ID | Stakeholder(s) | Power/Interest | Technique | Objective | Duration | Deliverable | Prep Required | Owner |
 |-------------|----------------|----------------|-----------|-----------|----------|-------------|---------------|-------|
-| **EA-11** | Data Analytics Team | 6/8 | Interview | Internal churn metrics validation vs. VOC | 90 min | Churn correlation analysis (VOC 22% vs. internal) | Request cohort data via Product | BA |
+| **EA-11** | Data Analytics Team | 6/8 | Interview | Internal churn metrics validation vs. VOC | 30 min | Churn correlation analysis (VOC 22% vs. internal) | Request cohort data via Product | BA |
 | **EA-12** | Executive Management | 10/10 | Presentation | VOC findings, churn analysis, preliminary ROI | 60 min | Exec approval for Phase 2 budget | Prepare slide deck with $25k ARR scenario | BA, PM |
 | **EA-13** | Executive Management | 10/10 | Document Analysis | Company OKRs, financial targets, strategic goals | 2 hr | Strategic alignment matrix (Routines vs. 2026 OKRs) | Request OKR docs via Exec office | BA |
-| **EA-14** | Product, Dev, Design Leads | 9/10, 8/10, 8/10 | Workshop | Cross-functional alignment on MVP priorities | 2 hr | Signed-off MVP scope, Phase 2 kickoff plan | Consolidate Weeks 1-2 findings | BA |
+| **EA-14** | Product, Dev, Design Leads | 9/10, 8/10, 8/10 | Workshop | Cross-functional alignment on MVP priorities | 2.5 hr | Signed-off MVP scope, Phase 2 kickoff plan | Consolidate Weeks 1-2 findings | BA |
 
 
 **Week 3 Milestones:**
@@ -72,7 +72,7 @@ This plan operationalizes the Phase 1 elicitation strategy for the Tiimo Routine
 
 ### 1. Product Manager (Power: 9 | Interest: 10)
 
-**Total Engagement:** 3 sessions (EA-01, EA-02, EA-09) & ongoing touchpoints
+**Total Engagement:** 4 sessions (EA-01, EA-02, EA-09, EA-14) & ongoing touchpoints
 
 **Key Questions to Answer:**
 1. Why was Routines removed in 2025? (22% of VOC reviews cite this)
@@ -84,7 +84,7 @@ This plan operationalizes the Phase 1 elicitation strategy for the Tiimo Routine
 
 **Techniques:**
 - **Interview (EA-01):** Product vision, roadmap constraints, competitive positioning
-- **Workshop (EA-02):** Joint RICE/MoSCoW prioritization using VOC data
+- **Workshop (EA-02, EA-14):** Joint RICE/MoSCoW prioritization using VOC data, Sign off on Routines MVP
 - **Document Analysis (EA-09):** Internal roadmaps, feature backlogs, user research
 
 **Outputs:**
@@ -122,7 +122,7 @@ This plan operationalizes the Phase 1 elicitation strategy for the Tiimo Routine
 
 ### 3. Development Lead (Power: 8 | Interest: 10)
 
-**Total Engagement:** 3 sessions (EA-03, EA-06, EA-07), technical spikes
+**Total Engagement:** 4 sessions (EA-03, EA-06, EA-07, EA-14), technical spikes
 
 **Key Questions to Answer:**
 1. What technical debt caused Routines removal?
@@ -132,9 +132,8 @@ This plan operationalizes the Phase 1 elicitation strategy for the Tiimo Routine
 5. Is Routines MVP feasible in 4 sprints?
 
 **Techniques:**
-- **Interview (EA-03):** Technical constraints, effort estimates, refactoring needs
-- **Workshop (EA-06):** Solution brainstorming, prototype reviews
-- **Observation (EA-07):** Review existing codebase, architecture docs
+- **Interview (EA-03, EA-07):** Technical constraints, effort estimates, refactoring needs, gap analysis
+- **Workshop (EA-06, EA-14):** Solution brainstorming, prototype reviews, sign off on routines MVP
 
 **Outputs:**
 - Technical constraints log (architecture, dependencies, refactoring scope)
@@ -148,7 +147,7 @@ This plan operationalizes the Phase 1 elicitation strategy for the Tiimo Routine
 
 ### 4. Design Lead (Power: 8 | Interest: 10)
 
-**Total Engagement:** 3 sessions (EA-04, EA-07, EA-08) & co-design iterations
+**Total Engagement:** 4 sessions (EA-04, EA-07, EA-08, EA-14) & co-design iterations
 
 **Key Questions to Answer:**
 1. What UX problems was the team trying to solve by removing Routines?
@@ -160,7 +159,7 @@ This plan operationalizes the Phase 1 elicitation strategy for the Tiimo Routine
 
 **Techniques:**
 - **Interview (EA-04, EA-07):** Past design rationale, complexity constraints, accessibility considerations, Walkthrough current app (onboarding, planning, AI, calendar), legacy Routines designs
-- **Workshop (EA-08):** Co-design MVP flows, information architecture, visual hierarchy using VOC examples
+- **Workshop (EA-08, EA-14):** Co-design MVP flows, information architecture, visual hierarchy using VOC examples, sign-off on Routines MVP
 
 **Outputs:**
 - UX decision log (2025 Routines removal rationale)
@@ -188,6 +187,9 @@ This plan operationalizes the Phase 1 elicitation strategy for the Tiimo Routine
 
 **Outputs:**
 - Competitive feature matrix:
+    - **Structured:** Routines with subtasks - yes, Visual timer - yes, Price: $4.99/mo
+    - **Llama Life:** Time-blocking - yes, ADHD focus yes, Price: Free + $8/mo premium
+    - **TickTick:** Habit tracking - yes, Pomodoro timer - yes, Price: $35.99/yr
 - Migration analysis: 8/113 VOC reviews cite switching (ASUK018, ASNZ002, ASUS013, ASUS029)
 - Competitive positioning: Tiimo's visual timer with neurodivergent UX = differentiation if Routines restored
 
