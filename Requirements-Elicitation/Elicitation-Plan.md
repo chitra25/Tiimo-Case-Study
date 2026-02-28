@@ -1,5 +1,4 @@
-# Elicitation Activity Plan
-## Tiimo iPhone Churn Reduction Initiative – Phase 1
+# Elicitation Activity Plan : Tiimo iPhone Churn Reduction Initiative
 
 **Phase:** 1 – Elicitation & Requirement Analysis (80% resource allocation)  
 **Objective:** Gather requirements and validate Routines MVP feasibility with high-power, high-interest stakeholders

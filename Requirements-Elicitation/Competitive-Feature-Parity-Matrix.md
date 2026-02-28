@@ -1,5 +1,5 @@
-# Competitive Feature Parity Matrix
-**Tiimo iPhone Churn Reduction Initiative | Phase 1 Elicitation Artifact**  
+# Competitive Feature Parity Matrix : **Tiimo iPhone Churn Reduction Initiative
+**Phase 1 Elicitation Artifact**  
 **Sources**: App Store, Product Websites, User Reviews 
 
 ---
