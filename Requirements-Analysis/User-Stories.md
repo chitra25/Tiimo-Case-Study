@@ -4,6 +4,18 @@
 ## Executive Summary
 This document details 7 user stories and their acceptance criteria for the Tiimo Routines Restoration MVP. The stories come from public app reviews showing routines removal as the top iPhone churn reason at 13.5% of cases. They cover creating routines with timed subtasks, visual timers, saving to library, server repeats without crashes, calendar sync, batch adds, and overlap checks. Developers can build these small pieces one sprint at a time with clear tests.
 
+## INVEST Evaluation Summary (Phase 2 Refinement)
+All 7 stories reviewed by cross-team (PM/Dev/Design)
+
+| Story | Independent | Negotiable | Valuable | Estimable | Small | Testable |
+|-------|-------------|------------|----------|-----------|-------|----------|
+| US-FR01 | Yes (no deps) | Yes (workshop) | Yes (13.5% churn) | Yes (5 pts) | Yes | Yes |
+| US-FR02 | Yes | Yes | Yes (80% completion) | Yes (5 pts) | Yes | Yes |
+| US-FR03 | Yes | Yes | Yes (reuse reqs) | Yes (3 pts) | Yes | Yes |
+| US-FR04 | Yes (backend) | Yes | Yes (99% crash-free) | Yes (5 pts) | Yes | Yes |
+| US-FR05 | Yes | Yes | Yes (sync bugs) | Yes (5 pts) | Yes | Yes |
+| US-FR06 | Yes | Yes | Yes (bulk bugs) | Yes (3 pts) | Yes | Yes |
+| US-FR07 | Yes | Yes | Yes (planning) | Yes (3 pts) | Yes | Yes |
 
 ## Epic: EP-01 Routines Restoration
 As a Tiimo Product Manager,  
