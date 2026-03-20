@@ -1,5 +1,5 @@
 
-# Elicitation Log Guide : Tiimo iPhone Churn Reduction
+# Elicitation Results Log : Tiimo iPhone Churn Reduction
 
 ### Summary Metrics
 - Sessions: 8 (4 interviews, 2 workshops, 1 doc review, 1 market research)

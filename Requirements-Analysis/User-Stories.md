@@ -129,3 +129,88 @@ Then the app shows a visual warning list and offers auto-shift for easy fixes.
 Given a simple overlap like 5 minutes,  
 When auto-resolve runs,  
 Then it adjusts times smoothly and confirms before saving.
+
+## US-SR03: NeuroInclusive Design Integration
+**User Story**  
+As a Design Lead integrating neuroinclusive UX into Tiimo on iPhone,
+I want simplified navigation and AI-suggested routines without clutter,
+So that ADHD users can access routines easily while keeping the app calm and focused, fixing the complexity complaints from app reviews.
+
+**Acceptance Criteria**  
+**AC1**  
+Given I open the routines section in Tiimo,  
+When I navigate to create or deploy a routine,  
+Then the flow uses simplified steps with AI suggestions and no extra clutter screens.  
+**AC2**  
+Given neurodivergent users test the design end-to-end,  
+When they rate usability on a 1-5 scale,  
+Then average score is 4+ with comments on reduced overwhelm.
+
+## US-SR08: Analytics Alignment  
+**User Story**  
+As a Data Analytics Team member tracking Tiimo churn on iPhone,  
+I want to verify approximately 85% alignment between VOC review data and internal cohort metrics,  
+So that low-rating reviews serve as reliable churn proxy for prioritization and KPI validation.  
+
+**Acceptance Criteria**  
+**AC1**  
+Given VOC dataset and internal churn cohorts compared,  
+When correlation analysis runs,  
+Then 85%+ match confirms reviews predict churn signals.    
+
+## US-NFR04: WCAG AA Accessible Timers  
+**User Story**  
+As a person with ADHD and time-blindness using Tiimo on iPhone,  
+I want routine timers with high-contrast colors that are WCAG AA compliant and neuroinclusive,  
+So that I can easily see remaining time even in bright light or with visual processing challenges, meeting accessibility standards while delighting users as noted in Kano analysis.  
+
+**Acceptance Criteria**  
+**AC1**  
+Given routine timer displays on iPhone in various lighting,  
+When tested with high-contrast mode and color-blind simulators,  
+Then colors pass WCAG AA contrast ratios (4.5:1 min) and remain time-blind friendly.  
+**AC2**  
+Given accessibility audit tools scan timer screens,  
+When run against WCAG AA guidelines,  
+Then zero violations for color, text sizing, and focus indicators.  
+​
+## US-TR01: Routines User FAQ  
+**User Story**  
+As a Tiimo Support Team member helping new Routines MVP users on iPhone,  
+I want an in-app and website FAQ explaining Routines vs Plans plus common issues,  
+So that users resolve questions quickly without tickets, reducing post-launch churn from confusion.  
+
+**Acceptance Criteria**  
+**AC1**  
+Given FAQ published in app settings and tiimo.com/support,  
+When users search "routines vs plans",  
+Then clear answers appear covering differences and fixes.  
+**AC2**  
+Given support ticket volume tracked 30 days post-launch,  
+When compared to pre-MVP baseline,  
+Then Routines-related tickets drop 50%.  
+​
+
+## US-TR02: Onboarding Video  
+**User Story**  
+As a new Tiimo iPhone user with ADHD learning Routines MVP,  
+I want a 3-minute paced video tutorial for routine setup flow,  
+So that I complete first routine at 80% success rate without frustration from setup complaints in reviews.  
+
+**Acceptance Criteria**  
+**AC1**  
+Given video embedded in onboarding after MVP launch,  
+When new users watch and follow steps,  
+Then 80% create first routine successfully per analytics.  
+**AC2**  
+Given video tested for timing,  
+When played end-to-end,  
+Then total length less than or equal to 3 minutes with ADHD-friendly pacing.  
+**AC3**  
+Given video content reviewed,  
+When step-by-step demo checked,  
+Then it matches exact routine creation flow from app.  
+**AC4**  
+Given accessibility audit run,  
+When WCAG AA criteria tested,  
+Then video has captions, replay button, and passes compliance.  
