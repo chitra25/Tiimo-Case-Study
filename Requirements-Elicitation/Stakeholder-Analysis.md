@@ -4,18 +4,16 @@
 
 ## Executive Summary
 
-This stakeholder analysis supports the strategic recommendation to prioritize Routines feature restoration as the primary initiative to address iPhone user churn. Analysis of 113 Voice of Customer(VOC) reviews reveals Routines complaints represent 23% of total feedback volume, the highest of any issue category while exhibiting a 19.2% churn rate among affected users.
+This analysis identifies stakeholders critical to prioritizing Routines feature restoration, informed by VOC data showing 22% complaint volume (highest category) and 13.5% churn rate among affected iPhone users. The report maps decision-makers impacted by this prioritization and positioned to support Routines MVP execution.
 
-This report operationalizes the above recommendation by identifying decision-makers required for Routines MVP validation and execution.
-
-**Key Finding**: 15 stakeholders have been identified, categorized, and prioritized using the BABOK Guide v3 Power-Interest framework. Phase 1 of elicitation resource allocation focus, centers on 5  high-power, high-interest stakeholders (Product Management, Executive Leadership, Development Lead, Design, and QA teams) who collectively control roadmap decisions, technical feasibility, and resource allocation.
+**Key Finding**: 15 stakeholders have been identified, categorized, and prioritized using the Power-Interest framework. Phase 1 of elicitation resource allocation focus, centers on 5  high-power, high-interest stakeholders (Product Management, Executive Leadership, Development Lead, Design, and QA teams) who collectively control roadmap decisions, technical feasibility, and resource allocation.
 
 ---
 
 ## Methodology
 
 ### 1. Stakeholder Identification
-- **BABOK Technique**: Stakeholder List, Map, and Personas checklist
+- **Technique**: Stakeholder List, Map, and Personas checklist
 - **Data Sources**: 
   - Tiimo Case Study Excel workbook (113 reviews: App Store US/UK/AU/NZ, Nolt, Reddit, Blogs)
   - Tiimo public information (website, Apple Award announcement)
