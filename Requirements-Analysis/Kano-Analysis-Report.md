@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-This document details the Power BI dashboard exported as [Kano-Analysis.pdf](/docs/Kano-Analysis.pdf), created to prioritize features for the Routines MVP using public VOC data from 113 low-rating iPhone reviews. As a hypothetical study without customer access, VOC themes (e.g., **Routines 22% volume, 13.5% churn signals**) served as a proxy for Kano surveys: hypotheses classified features, computed Dissatisfaction/Satisfaction % via formulas, then plotted quadrants with RICE integration for MVP scoping.
+This document details the Power BI dashboard exported as [Kano-Analysis.pdf](/docs/Kano-Analysis.pdf), created to prioritize features for the Routines MVP using public VOC data from low-rating iPhone reviews. As a hypothetical study without customer access, VOC themes (e.g., **Routines 22% volume, 13.5% churn signals**) served as a proxy for Kano surveys: hypotheses classified features, computed Dissatisfaction/Satisfaction % via formulas, then plotted quadrants with RICE integration for MVP scoping.
 
 ## Kano Visual Overview
 
@@ -65,6 +65,6 @@ Traditional Kano requires customer surveys (functional/dysfunctional questions),
 
 ## MVP Prioritization Outcomes
 
-Dashboard scoped MVP to **17 features (RICE ≥28.8)**, directly traceable to reqs/tests:
+Dashboard scoped MVP to **17 features (RICE >= 28.8)**, directly traceable to reqs/tests:
 - **Top**: Routine Creation/Visual Timer/Crash-Free (**60.0**) → **FR-01/FR-02/NFR-03**.
 - **Projected**: **13.5% churn reduction**, **0.5-star rating uplift** via Must-be fixes.
