@@ -1,16 +1,8 @@
 # Elicitation Activity Plan : Tiimo iPhone Churn Reduction Initiative
 
-**Phase:** 1 – Elicitation & Requirement Analysis (80% resource allocation)  
-**Objective:** Gather requirements and validate Routines MVP feasibility with high-power, high-interest stakeholders
-
----
-
 ## Executive Summary
 
-This plan operationalizes the Phase 1 elicitation strategy for the Tiimo Routines MVP initiative, focusing on 5 high-power stakeholders (Product Managers, Executive, Development & Design Leads, Competitors) identified through stakeholder analysis. VOC analysis revealed Routines complaints represent 22% of total feedback volume with 20% churn signals among affected users. Phase 1 allocates 80% of elicitation resources to validate business case assumptions, assess technical feasibility, and align on MVP scope before MVP Execution (Phase 2).
-
-**Duration:** 3 weeks  
-**Success Criteria:** Stakeholder alignment on Routines priority, validated feasibility (4-sprint MVP), Exec approval for Phase 2
+This plan operationalizes the Phase 1 elicitation strategy for the Tiimo Routines MVP initiative, focusing on 5 high-power stakeholders (Product Managers, Executive, Development & Design Leads, Competitors) identified through stakeholder analysis. VOC analysis revealed Routines complaints represent 22% of total feedback volume with 13.5% churn signals among affected users. Phase 1 allocates 80% of elicitation resources to validate business case assumptions, assess technical feasibility, and align on MVP scope before MVP Execution (Phase 2).
 
 ---
 
@@ -56,7 +48,7 @@ This plan operationalizes the Phase 1 elicitation strategy for the Tiimo Routine
 | Activity ID | Stakeholder(s) | Power/Interest | Technique | Objective | Duration | Deliverable | Prep Required | Owner |
 |-------------|----------------|----------------|-----------|-----------|----------|-------------|---------------|-------|
 | **EA-11** | Data Analytics Team | 6/8 | Interview | Internal churn metrics validation vs. VOC | 30 min | Churn correlation analysis (VOC 22% vs. internal) | Request cohort data via Product | BA |
-| **EA-12** | Executive Management | 10/10 | Presentation | VOC findings, churn analysis, preliminary ROI | 60 min | Exec approval for Phase 2 budget | Prepare slide deck with $25k ARR scenario | BA, PM |
+| **EA-12** | Executive Management | 10/10 | Presentation | VOC findings, churn analysis, preliminary ROI | 60 min | Exec approval for Phase 2 budget | Prepare slide deck with ARR scenarios | BA, PM |
 | **EA-13** | Executive Management | 10/10 | Document Analysis | Company OKRs, financial targets, strategic goals | 2 hr | Strategic alignment matrix (Routines vs. 2026 OKRs) | Request OKR docs via Exec office | BA |
 | **EA-14** | Product, Dev, Design Leads | 9/10, 8/10, 8/10 | Workshop | Cross-functional alignment on MVP priorities | 2.5 hr | Signed-off MVP scope, Phase 2 kickoff plan | Consolidate Weeks 1-2 findings | BA |
 
@@ -111,7 +103,7 @@ This plan operationalizes the Phase 1 elicitation strategy for the Tiimo Routine
 - **Strategic Reviews:** Quarterly business case updates (post Phase 3)
 
 **Outputs:**
-- Exec slide deck (15 slides max): Problem, VOC evidence, MVP scope, $25k ARR scenario
+- Exec slide deck (15 slides max): Problem, VOC evidence, MVP scope, approx $500K ARR scenario
 - Budget approval for 4-sprint MVP (Dev, Design, QA resources)
 - Strategic alignment matrix (iPhone churn vs. 2026 revenue goals)
 
@@ -187,7 +179,7 @@ This plan operationalizes the Phase 1 elicitation strategy for the Tiimo Routine
 **Outputs:**
 - Competitive feature matrix:
     - **Structured:** Routines with subtasks - yes, Visual timer - yes, Price: $4.99/mo
-    - **Llama Life:** Time-blocking - yes, ADHD focus yes, Price: Free + $8/mo premium
+    - **Llama Life:** Time-blocking - yes, ADHD focus yes, Price: Free and $8/mo premium
     - **TickTick:** Habit tracking - yes, Pomodoro timer - yes, Price: $35.99/yr
 - Migration analysis: 8/113 VOC reviews cite switching (ASUK018, ASNZ002, ASUS013, ASUS029)
 - Competitive positioning: Tiimo's visual timer with neurodivergent UX = differentiation if Routines restored
