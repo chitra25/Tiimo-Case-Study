@@ -1,4 +1,4 @@
-# Tiimo iPhone Churn Reduction: Kano Analysis Documentation
+#  Kano Analysis Documentation: Tiimo iPhone Churn Reduction
 
 ## Executive Summary
 
