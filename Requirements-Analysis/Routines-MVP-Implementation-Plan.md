@@ -1,8 +1,8 @@
-# Tiimo iPhone Routines MVP: Phase 2 Implementation Roadmap
+# Phase 2 Implementation Roadmap: Tiimo iPhone Churn Reduction 
 
 ## Executive Summary
 
-This roadmap details the 8-week implementation of the Routines MVP to address 13% of iPhone churn complaints identified in VOC analysis. BA oversight ensures full traceability to all requirement types (functional, NFR, stakeholder, business, transition) across execution
+This roadmap details the 4 sprint implementation of the Routines MVP to address 13% of iPhone churn complaints identified in VOC analysis. BA oversight ensures full traceability to all requirement types (functional, NFR, stakeholder, business, transition) across execution
 
 ## Project Governance
 
@@ -52,8 +52,8 @@ Continuous monitoring validates ROI across all requirement types.
 ## Traceability and References
 
 This roadmap maintains full bidirectional traceability to:
-- Requirements Catalog
-- Test Cases
-- Decision Analysis
-- Risk Log
-- Gantt Chart
+- [Gantt Chart](Gantt%20Chart.xlsx)
+- [Requirements Catalog](Requirements-Catalog-Tiimo.xlsx)
+- [Test Cases](Test-Cases.md)
+- [Decision Analysis](Decision-Analysis.md)
+- [Risk Log](../Requirements-Elicitation/Risk-Log.md)
