@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-Tiimo faces 20% churn from Routines feature gaps, per 113 VOC reviews. This document presents a comprehensive BPMN 2.0 process analysis for Tiimo's task creation functionality. It identifies critical failures in the current As-Is process that contribute to 20% of low-rating App Store complaints and recommends a scalable To-Be architecture. By moving repeat expansion to server-side batch processing, the solution reduces routine setup time from 15 minutes to 90 seconds and eliminates out-of-memory crashes entirely.
+Tiimo faces 13.5% churn from Routines feature gaps, per VOC reviews. This document presents a comprehensive BPMN 2.0 process analysis for Tiimo's task creation functionality. It identifies critical failures in the current As-Is process that contribute to 22% of low-rating App Store complaints and recommends a scalable To-Be architecture. By moving repeat expansion to server-side batch processing, the solution reduces routine setup time from 15 minutes to 90 seconds and eliminates out-of-memory crashes entirely.
 
 
 ## As-Is Process Flow : Current Task Creation Flow
