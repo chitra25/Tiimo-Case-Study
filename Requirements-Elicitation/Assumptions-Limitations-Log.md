@@ -7,6 +7,7 @@
 4. In a real engagement, Product, Design, Engineering, and Data teams are assumed to be accessible for interviews and for validating VOC‑based hypotheses with internal metrics.
 5. It is assumed that restoring a limited Routines MVP (saved routines, subtasks with durations, visual timer) is technically and UX‑wise feasible, pending confirmation with Dev and Design Leads.
 6. iPhone is treated as the primary platform for this case (aligned with App Store Award 2025 and current product focus), with Android considered secondary due to app removal and limited, fragmented feedback.
+7. With 50K subscribers at $54/year pricing, Tiimo generated $2.7M ARR in 2025, establishing the revenue baseline for churn analysis, subject to internal cohort validation .
 
 
 ## Limitations
