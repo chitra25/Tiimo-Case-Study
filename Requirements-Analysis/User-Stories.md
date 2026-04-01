@@ -2,10 +2,10 @@
 # Tiimo Routines Restoration MVP - User Stories & Acceptance Criteria
 
 ## Executive Summary
-This document details 7 user stories and their acceptance criteria for the Tiimo Routines Restoration MVP. The stories come from public app reviews showing routines removal as the top iPhone churn reason at 13.5% of cases. They cover creating routines with timed subtasks, visual timers, saving to library, server repeats without crashes, calendar sync, batch adds, and overlap checks. Developers can build these small pieces one sprint at a time with clear tests.
+This document details 12 user stories and their acceptance criteria for the Tiimo Routines Restoration MVP. The stories come from public app reviews showing routines removal as the top iPhone churn reason at 13.5% of cases. They cover creating routines with timed subtasks, visual timers, saving to library, server repeats without crashes, calendar sync, batch adds, and overlap checks. Developers can build these small pieces one sprint at a time with clear tests.
 
 ## INVEST Evaluation Summary (Phase 2 Refinement)
-All 7 stories reviewed by cross-team (PM/Dev/Design)
+All 12 stories reviewed by cross-team (PM/Dev/Design)
 
 | Story | Independent | Negotiable | Valuable | Estimable | Small | Testable |
 |-------|-------------|------------|----------|-----------|-------|----------|
