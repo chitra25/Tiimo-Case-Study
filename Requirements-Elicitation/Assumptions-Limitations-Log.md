@@ -12,9 +12,9 @@
 
 ## Limitations
 1. **No Direct Access to Internal Data**:
-The study relies on public information + VOC; there is no access to Tiimo’s internal churn, cohort, or feature usage analytics, so all churn/ARR figures are scenario‑based, not measured.
+The study relies on public information and VOC. There is no access to Tiimo’s internal churn, cohort, or feature usage analytics, so all churn/ARR figures are scenario‑based, not measured.
 2. **Consumer‑Skewed VOC**: 
-VOC sources (App Stores, Reddit, Nolt) mostly represent individual consumers and neurodivergent self‑users, so team/enterprise or institutional use cases (schools, clinics) are underrepresented.
+VOC sources (App Stores, Reddit, Nolt) mostly represent individual consumers and neurodivergent self‑users, so team or enterprise or institutional use cases (schools, clinics) are underrepresented.
 3. **Platform and Segment Bias**: 
   - The dataset is iPhone‑heavy; Android issues appear in a few reviews (e.g., app removed from Play Store) but are not systematically analyzed.
   - ​English‑language feedback dominates, which may miss regional UX/paywall nuances.
