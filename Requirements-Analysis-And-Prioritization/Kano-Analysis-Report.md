@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-This document details the Power BI dashboard exported as [Kano-Analysis.pdf](/docs/Kano-Analysis.pdf), created to prioritize features for the Routines MVP using public VOC data from low-rating iPhone reviews. As a hypothetical study without customer access, VOC themes (e.g., **Routines 22% volume, 13.5% churn signals**) served as a proxy for Kano surveys: hypotheses classified features, computed Dissatisfaction/Satisfaction % via formulas, then plotted quadrants with RICE integration for MVP scoping.
+This document details the Power BI dashboard exported as [Kano-Analysis pdf](/Requirements-Analysis-And-Prioritization/Kano-Analysis.pdf) and [Kano-Analysis pbix](/Requirements-Analysis-And-Prioritization/Kano-Analysis.pbix), created to prioritize features for the Routines MVP using public VOC data from low-rating iPhone reviews. As a hypothetical study without customer access, VOC themes (e.g., **Routines 22% volume, 13.5% churn signals**) served as a proxy for Kano surveys: hypotheses classified features, computed Dissatisfaction/Satisfaction % via formulas, then plotted quadrants with RICE integration for MVP scoping.
 
 ## Kano Visual Overview
 

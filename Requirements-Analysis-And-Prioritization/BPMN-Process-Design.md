@@ -17,7 +17,7 @@ The existing process follows these steps:
 6. Flow terminates via End Event after an average 15-minute ordeal.
 
 
-![As-Is BPMN](../images/Current-State-Diagram.png)
+![As-Is BPMN](/Stakeholder-Engagement-And-Elicitation/Current-State-Diagram.png)
 
 
 ## To-Be Process Flow : Scalable Architecture
@@ -32,4 +32,4 @@ The redesigned process eliminates client burden through server intelligence:
 6. Flow completes via Success End Event in 90 seconds.
 
 
-![To-Be BPMN](../images/Future-State-Diagram.png)
+![To-Be BPMN](/Requirements-Analysis-And-Prioritization/Future-State-Diagram.png)

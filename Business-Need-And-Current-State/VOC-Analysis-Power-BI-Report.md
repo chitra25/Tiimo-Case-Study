@@ -8,7 +8,7 @@ Using only public data from App Stores, Reddit, Nolt, and more, we scale complai
 
 **Key Takeaway:** Top-3 issues drive 68% churn – act now for approx 15% reduction potential.
 
-**Dashboard Files:** [VOC Raw Data](../docs/VOC-Raw-Data.xlsx) | [VOC Analysis Power BI Report](../docs/VOC-Analysis-Power-BI.pbix) | [VOC Analysis Pdf Report](../docs/VOC-Analysis-PDF-Report.pdf)
+**Dashboard Files:** [VOC Raw Data](/Business-Need-And-Current-State/VOC-Raw-Data.xlsx) | [VOC Analysis Power BI Report](/Business-Need-And-Current-State/VOC-Analysis-Power-BI.pbix) | [VOC Analysis Pdf Report](/Business-Need-And-Current-State/VOC-Analysis-PDF-Report.pdf)
 
 ## 1. The Data Foundation: Sourcing Public Voices
 

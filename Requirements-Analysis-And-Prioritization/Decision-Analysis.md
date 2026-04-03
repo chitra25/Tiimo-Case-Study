@@ -61,7 +61,7 @@ Each criterion receives a 0-100 raw score benchmarked against alternatives:
 | Technical Risk | Expert judgment (Low=20, Med=65, High=90)* | **95** | **65** | **50** | **20** |
 | User Value | Recovery ratio × 100 | **100** | **88** | **72** | **0** |
 
-*Risk inverted (lower better) via elicitation judgment [file:6][file:9]
+*Risk inverted (lower better) via elicitation judgment 
 
 ## Weighted Score Calculations
 
