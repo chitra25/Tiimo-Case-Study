@@ -25,15 +25,18 @@
 
 Tiimo, winner of Apple’s 2025 iPhone App of the Year award for ADHD productivity planning, faces significant user churn despite critical acclaim.
 
-This business analysis case study uses a voice-of-customer dataset of 113 low-rating reviews collected from App Store markets, Nolt, Reddit, blogs, and Trustpilot to identify the primary churn driver, quantify business impact, and define a prioritized response.
+This business analysis case study uses a public voice-of-customer dataset of 113 low-rating reviews collected from App Store markets, Nolt, Reddit, blogs, and Trustpilot to identify the primary churn driver, estimate business impact through scenario-based modeling, and define a prioritized response.
 
-> [!IMPORTANT]
-> **Problem Statement**  
-> Despite industry recognition, Tiimo shows strong dissatisfaction signals among low-rating users. The objective of this case study was to quantify the most important complaint themes, validate their relationship to churn risk, and translate those findings into actionable, traceable requirements that could reduce attrition.
+**Problem Statement**  
+Despite industry recognition, Tiimo shows strong dissatisfaction signals among low-rating users. The objective of this case study was to quantify the most important complaint themes, validate their relationship to churn risk, and translate those findings into actionable, traceable requirements that could reduce attrition.
 
-> [!TIP]
-> **Executive Summary**  
-> The analysis found that 32.7% of the reviewed sample carried churn signals, the top three issue categories accounted for 68% of churn impact, and the modeled business case indicated $597K ARR at risk. Within that pattern, Routines emerged as the most important intervention, with approximately $119K in recovery potential under the full-restoration scenario. A **Core Routines MVP** was then selected as the preferred recommendation because it offered the strongest balance of user value, commercial impact, delivery effort, and technical feasibility.
+**Executive Summary**  
+The analysis found that 32.7% of the reviewed sample carried churn signals, and the top three issue categories accounted for 68% of churn impact in the public VOC sample. The modeled business case indicated approximately $597K ARR at risk, with Routines representing about $119K in recovery potential under a full-restoration scenario. Based on public evidence and modeled BA evaluation artifacts, a Core Routines MVP emerged as the preferred recommendation because it offered the strongest balance of user value, commercial impact, delivery effort, and technical constraints
+
+<br>
+
+> [!NOTE]
+> This portfolio case study combines public evidence from external VOC sources with scenario-based business modeling and simulated BA engagement artifacts. Various artifacts included are to demonstrate business analysis method under realistic constraints and do not represent direct access to Tiimo’s internal data or teams.
 
 ---
 
@@ -77,6 +80,7 @@ Within that pattern, the removal of **Routines** emerged as the most strategical
 | Delivery feasibility | 4 sprints |
 | Budget assumption | $50K |
 
+<br>
 
 > [!NOTE]
 > The central business insight was that Routines was not just a highly requested feature. It was the most important overlap between customer frustration, churn risk, competitive parity, and measurable business value.
@@ -87,7 +91,7 @@ Within that pattern, the removal of **Routines** emerged as the most strategical
 
 The case study began with structured voice-of-customer analysis using a tagged review dataset. Reviews were organized by issue, sub-theme, churn signal, and requirement grouping.
 
-Stakeholder analysis and elicitation then validated the business case and shaped solution scope. High-power, high-interest stakeholders were prioritized because they controlled roadmap direction, budget, UX decisions, and technical feasibility. Competitive benchmarking, Kano analysis, and decision analysis were then used to compare alternatives and identify the most viable scope for intervention.
+Simulated stakeholder analysis and modeled elicitation outputs were then used to test the business case assumptions and shape solution scope as they would be evaluated in a real engagement. In the modeled engagement, high-power, high-interest stakeholders were prioritized because those roles would typically influence roadmap direction, budget, UX decisions, and technical feasibility. Competitive benchmarking, Kano analysis, and decision analysis were then used to compare alternatives and identify the most viable scope for intervention.
 
 The requirements documentation was created to make the analysis easy to follow and ready for delivery. MVP Scope was linked to requirement IDs, user stories, acceptance criteria, and test cases, which created a clear path from review insight to implementation-ready deliverables. 
 
@@ -110,7 +114,7 @@ The requirements documentation was created to make the analysis easy to follow a
 
 The final recommendation is the restoration of a **Core Routines MVP** for the Tiimo iPhone app.
 
-This option was selected because it delivered the strongest balance of value and feasibility. It captured a high share of modeled ARR recovery, addressed the most important churn driver in the dataset, and remained achievable within a validated 4-sprint delivery window. It also reduced the risk of reintroducing excessive complexity by focusing only on the smallest coherent set of capabilities needed to restore user value.
+This option was selected because it delivered the strongest balance of value and feasibility. It captured a high share of modeled ARR recovery, addressed the most important churn driver in the dataset, and remained achievable within a modeled 4-sprint delivery window. It also reduced the risk of reintroducing excessive complexity by focusing only on the smallest coherent set of capabilities needed to restore user value.
 
 ### Recommended MVP scope
 
@@ -129,7 +133,7 @@ This option was selected because it delivered the strongest balance of value and
 
 > [!IMPORTANT]
 > **Recommendation Rationale**  
-> The Core Routines MVP outperformed full restoration and stability-only alternatives because it preserved most of the modeled business value while staying inside realistic technical constraints. Publicly available evidence and the case study’s constraint analysis suggested that the original removal of Routines was linked to complexity, stability concerns, and underlying technical debt, so the recommended MVP scope was intentionally defined to address those limitations rather than recreate the full legacy solution.This made it the strongest option from both a BA and product decision-making perspective.
+> The Core Routines MVP outperformed full restoration and stability-only alternatives because it preserved most of the modeled business value while staying inside realistic technical constraints. Publicly available evidence and the case study’s constraint analysis suggested that the original removal of Routines was linked to complexity, stability concerns, and underlying technical debt, so the recommended MVP scope was intentionally defined to address those limitations rather than recreate the full legacy solution.In this hypothesis-led case study, this made it the strongest option from both a BA and product decision-making perspective.
 
 ---
 
@@ -177,12 +181,9 @@ For that reason, the recommendation should be read as a hypothesis-led business 
 
 | Artifact | Purpose |
 |---|---|
-| [VOC Analysis Power BI Report](./Business-Need-And-Current-State/VOC-Analysis-Power-BI.pbix) | Summarizes VOC findings, churn concentration, and ARR exposure |
-| [VOC Analysis PDF Dashboard](./Business-Need-And-Current-State/VOC-Analysis-PDF-Report.pdf) | Provides executive visuals for scan-friendly review |
-| [Affinity & Traceability Analysis](./Requirements-Documentation-And-Traceability/Affinity_Traceability_Analysis_Tiimo.xlsx) | Shows tagged review data, theme clustering, churn mapping, and requirement links |
-| [Stakeholder Analysis](./Stakeholder-Engagement-And-Elicitation/Stakeholder-Analysis.md) | Documents stakeholder prioritization and engagement logic |
-| [Elicitation Plan](./Stakeholder-Engagement-And-Elicitation/Elicitation-Plan.md) | Defines stakeholder engagement strategy and elicitation structure |
-| [Elicitation Results Log](./Stakeholder-Engagement-And-Elicitation/Elicitation-Results-Log.md) | Records validation outcomes, feasibility findings, and key decisions |
+| [VOC Analysis PDF Dashboard](./Business-Need-And-Current-State/VOC-Analysis-PDF-Report.pdf) | Summarizes VOC findings, churn concentration, and ARR exposure while providing executive visuals for scan-friendly review |
+| [Stakeholder Analysis](./Stakeholder-Engagement-And-Elicitation/Stakeholder-Analysis.md) | Documents a simulated stakeholder analysis artifact used to show how engagement would be prioritized in a real BA project |
+| [Elicitation Plan](./Stakeholder-Engagement-And-Elicitation/Elicitation-Plan.md) | Defines a modeled engagement output showing how stakeholder elicitation would be structured in a real project setting |
 | [Competitive Feature Parity Matrix](./Stakeholder-Engagement-And-Elicitation/Competitive-Feature-Parity-Matrix.md) | Benchmarks Tiimo against key alternatives |
 
 ### Prioritization and decision artifacts
@@ -200,9 +201,7 @@ For that reason, the recommendation should be read as a hypothesis-led business 
 |---|---|
 | [Requirements Catalog](./Requirements-Documentation-And-Traceability/Requirements-Catalog-Tiimo.xlsx) | Defines business, functional, non-functional, stakeholder, and transition requirements |
 | [Requirements Traceability Matrix](./Requirements-Documentation-And-Traceability/Requirments-Traceability-Matrix.xlsx) | Links VOC evidence to requirements, user stories, acceptance criteria, and test cases |
-| [User Stories](./Requirements-Documentation-And-Traceability/User-Stories.md) | Provides delivery-ready stories and acceptance criteria |
-| [Test Cases](./Implementation-And-Validation/Test-Cases.md) | Defines verification coverage for the MVP |
-| [Implementation Plan](./Implementation-And-Validation/Routines-MVP-Implementation-Plan.md) | Describes roadmap, governance, and success metrics |
+| [Implementation Plan](./Implementation-And-Validation/Routines-MVP-Implementation-Plan.md) | Describes a modeled implementation plan with roadmap, governance, and success metrics derived from public evidence and scenario-based assumptions. |
 | [Gantt Chart](./Implementation-And-Validation/Gantt%20Chart.xlsx) | Shows delivery sequencing and release planning |
 
 ---
@@ -237,6 +236,10 @@ The implementation roadmap translates the recommendation into a practical releas
 - [Affinity Traceability Analysis](./Requirements-Documentation-And-Traceability/Affinity_Traceability_Analysis_Tiimo.xlsx)
 - [Assumptions and Limitations Log](./Business-Need-And-Current-State/Assumptions-Limitations-Log.md)
 - [VOC Raw Data](./Business-Need-And-Current-State/VOC-Raw-Data.xlsx)
+- [VOC Analysis Power BI Report](./Business-Need-And-Current-State/VOC-Analysis-Power-BI.pbix)
+- [Elicitation Results Log](./Stakeholder-Engagement-And-Elicitation/Elicitation-Results-Log.md) 
+- [User Stories](./Requirements-Documentation-And-Traceability/User-Stories.md)
+- [Test Cases](./Implementation-And-Validation/Test-Cases.md)
 
 </details>
 
