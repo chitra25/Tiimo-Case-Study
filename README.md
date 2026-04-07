@@ -1,9 +1,11 @@
 # Tiimo-Case-Study
-Tiimo Churn Analysis: Business Analysis Case Study on Apple's App of the Year
+**Tiimo Churn Analysis: Business Analysis Case Study on Apple's App of the Year**
 
 <p align="center">
   <img src="./images/Tiimo-App-Store.png" alt="Tiimo App Store Screenshot" width="900" />
 </p>
+
+<br><br>
 
 <p align="center">
   <strong>Voice of Customer • Churn Analysis • Prioritization • Requirements Engineering • Delivery Readiness</strong>
@@ -43,6 +45,7 @@ This business analysis case study uses a voice-of-customer dataset of 113 low-ra
 - [Recommendation](#-recommendation)
 - [BA Skills Demonstrated](#-ba-skills-demonstrated)
 - [AI-Assisted Analysis](#-ai-assisted-analysis)
+- [Assumptions and Case Study Boundaries](#-assumptions-and-case-study-boundaries)
 - [Featured Artifacts](#-featured-artifacts)
 - [Supporting Documentation](#-supporting-documentation)
 
@@ -122,9 +125,7 @@ This option was selected because it delivered the strongest balance of value and
 | Accessibility | ✅ Yes | Improves neuroinclusive usability |
 | FAQ and onboarding video | ✅ Yes | Reduces adoption friction after release |
 
-<p align="center">
-  <img src="./Kano-Analysis-Chart.jpg" alt="Kano Analysis" width="900"/>
-</p>
+<br>
 
 > [!IMPORTANT]
 > **Recommendation Rationale**  
